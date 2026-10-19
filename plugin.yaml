@@ -1,0 +1,7 @@
+name: hermes-rea-team
+version: 0.1.0
+description: Static-only pinned REA evidence and bounded MiniMax role review.
+provides_tools:
+  - rea_inspect
+  - rea_team
+provides_hooks: []
